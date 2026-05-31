@@ -109,3 +109,5 @@ coverage/
 *.code-workspace
 
 # ignore temporary backend git backup\nbackend/.git.old
+
+backend/.git
